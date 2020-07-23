@@ -9,7 +9,7 @@ namespace RacetimeGG
         /// <summary>
         /// The main website API url
         /// </summary>
-        public readonly string SiteUrl = "https://racetime.gg/";
+        public string SiteUrl = "https://racetime.gg/";
 
         /// <summary>
         /// Returns a list of all open and ongoing races.
